@@ -1,7 +1,9 @@
-d4aee16272762f563fa712f83eddc14e *DESCRIPTION
-0696b9e777e3d844d279aa2a88d5b885 *NAMESPACE
-09c2f826cb12d0f83a4bfa9ec3759d33 *R/addins.R
+5f1a30c3b28551a15e62a3cd70c4f99a *DESCRIPTION
+ed4b1d889438b408afac167d9d288cfb *NAMESPACE
+964e7e282a462b1d1d35c5bc1a883a98 *R/addins.R
+803d4170d1b3b3b7d1cc1dc325a83455 *R/ask_chatgpt.R
 505afe8f6099c61ae906182088fd33a7 *R/comment_code.R
+f92e20aca1f864dafad0c21ddd8cd375 *R/create_unit_tests.R
 95e683ebe1adbf8a847b095d19e040aa *R/create_variable_name.R
 f5da5f8da4f4bfc3e93c8b4f57781650 *R/document_code.R
 d05a1af0f3e8563087b8551eda2c8c84 *R/explain_code.R
@@ -9,8 +11,10 @@ d05a1af0f3e8563087b8551eda2c8c84 *R/explain_code.R
 707d402d36dade02b3d1b31822ca9c73 *R/gpt_get_completions.R
 8a51e70680396e2cb6cc13b157cd8040 *R/optimize_code.R
 abfa6637e70ca1b7aacfed0ad47bffdc *R/refactor_code.R
-5d28f3a189b4a93c58e27a2d6d80b8d3 *inst/rstudio/addins.dcf
+e644ff633bf07774f4049f9ba08c3e6a *inst/rstudio/addins.dcf
+166dc550cea7e915a7b2ea759425e4fc *man/ask_chatgpt.Rd
 ebb39f39ab6ecb23b0fd21a1d5d846b2 *man/comment_code.Rd
+ac6511fa58e909837eb3f10d023c4436 *man/create_unit_tests.Rd
 577fdbefc01ae2a965b5ec1f5c761367 *man/create_variable_name.Rd
 03c300215c9c00873726cd5aed8b9e27 *man/document_code.Rd
 c281ac45e2fac745cf01963c30200244 *man/explain_code.Rd
