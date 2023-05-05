@@ -1,7 +1,7 @@
 Package: chatgpt
 Type: Package
 Title: Interface to 'ChatGPT' from R
-Version: 0.2.2
+Version: 0.2.3
 Authors@R: c(
     person(
       given = "Juan Cruz", family = "Rodriguez", role = c("aut", "cre"), 
@@ -18,7 +18,7 @@ Encoding: UTF-8
 RoxygenNote: 7.2.3
 Imports: clipr, httr, jsonlite, miniUI, rstudioapi, shiny, utils
 NeedsCompilation: no
-Packaged: 2023-03-22 11:08:44 UTC; jcrodriguez
+Packaged: 2023-05-05 15:07:13 UTC; jcrodriguez
 Author: Juan Cruz Rodriguez [aut, cre]
 Repository: CRAN
-Date/Publication: 2023-03-22 11:30:05 UTC
+Date/Publication: 2023-05-05 23:00:06 UTC
